@@ -1,8 +1,1 @@
-'use strict';
-
-var person = {
-    name: "John",
-    age: 27,
-    isMemary: true
-};
-document.write(person.isMemary);
+let money = promt('Ваш бюджет на месяц?','50000');
